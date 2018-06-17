@@ -1,0 +1,32 @@
+#ut_fancy_link_5ae956f98ea23 a {
+    color: #e5e5e5
+}
+
+#ut_fancy_link_5ae956f98ea23 a::before {
+    background: #666666
+}
+
+#ut_fancy_link_5ae956f98ea23 a::after {
+    background: #666666
+}
+
+.bracket {
+    color: #8D0000;
+    font-size: 44px;
+}
+
+#letsText {
+    font-size: 34px;
+}
+
+.minPaddingSection {
+    padding: 30px 0 !important;
+}
+
+a#contactUs{
+    text-decoration: none !important;
+}
+
+a#contactUs:hover{
+    text-decoration: none !important;
+}
