@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a846cd09-81ad-494f-a328-fc9126ed01ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/Cart_nexus6p-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/HomePage_nexus6p-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/MyRatings_nexus6p-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/Welcome_nexus6p-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/CrushWineFestival_Logo2018(withBackground).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zarosLogo(transparent)(red).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zarosLogo(transparent).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/bigSpringCrush.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learnMore.html" afterPath="$PROJECT_DIR$/learnMore.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.css" afterPath="$PROJECT_DIR$/css/creative.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/bigSpringCrush.html" afterPath="$PROJECT_DIR$/portfolio/bigSpringCrush.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/canvasInc.html" afterPath="$PROJECT_DIR$/portfolio/canvasInc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/galleryGig.html" afterPath="$PROJECT_DIR$/portfolio/galleryGig.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/heirloom.html" afterPath="$PROJECT_DIR$/portfolio/heirloom.html" />
@@ -31,28 +23,38 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="180">
               <caret line="55" column="59" lean-forward="false" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learnMore.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="learnMore.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnMore.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="-198">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bigSpringCrush.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bigSpringCrush.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio/bigSpringCrush.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="378">
+              <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/creative.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-252">
+              <caret line="232" column="27" lean-forward="false" selection-start-line="232" selection-start-column="27" selection-end-line="232" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -61,8 +63,8 @@
       <file leaf-file-name="canvasInc.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/canvasInc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="270">
+              <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -71,8 +73,8 @@
       <file leaf-file-name="galleryGig.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/galleryGig.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="216">
+              <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -81,8 +83,8 @@
       <file leaf-file-name="heirloom.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/heirloom.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="324">
+              <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -91,8 +93,8 @@
       <file leaf-file-name="weRockITConf.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/weRockITConf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -101,8 +103,8 @@
       <file leaf-file-name="lojix.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/lojix.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="378">
+              <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -111,8 +113,8 @@
       <file leaf-file-name="unityChurch.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/unityChurch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+            <state relative-caret-position="432">
+              <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -131,13 +133,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mast</find>
       <find>font-family</find>
       <find>font-fa</find>
       <find>text-</find>
       <find>text-light</find>
       <find>background-image:url(.</find>
-      <find>masthea</find>
       <find>cl-effect-18</find>
       <find>mas</find>
       <find>portfoli</find>
@@ -152,6 +152,9 @@
       <find>nav</find>
       <find>portfolio-box</find>
       <find>(240, 95, 64, 0.9)</find>
+      <find>masthea</find>
+      <find>bg-dark-</find>
+      <find>mast</find>
     </findStrings>
     <replaceStrings>
       <replace>#8D000</replace>
@@ -183,16 +186,16 @@
         <option value="$PROJECT_DIR$/css/zaroslabs.css" />
         <option value="$PROJECT_DIR$/js/zaros.js" />
         <option value="$PROJECT_DIR$/css/creativeLinks/component.css" />
-        <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/learnMore.html" />
-        <option value="$PROJECT_DIR$/portfolio/weRockITConf.html" />
-        <option value="$PROJECT_DIR$/portfolio/heirloom.html" />
-        <option value="$PROJECT_DIR$/portfolio/galleryGig.html" />
+        <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/portfolio/canvasInc.html" />
-        <option value="$PROJECT_DIR$/portfolio/bigSpringCrush.html" />
-        <option value="$PROJECT_DIR$/portfolio/lojix.html" />
+        <option value="$PROJECT_DIR$/portfolio/galleryGig.html" />
+        <option value="$PROJECT_DIR$/portfolio/heirloom.html" />
         <option value="$PROJECT_DIR$/portfolio/unityChurch.html" />
+        <option value="$PROJECT_DIR$/portfolio/lojix.html" />
+        <option value="$PROJECT_DIR$/portfolio/weRockITConf.html" />
+        <option value="$PROJECT_DIR$/portfolio/bigSpringCrush.html" />
       </list>
     </option>
   </component>
@@ -242,7 +245,13 @@
             <path>
               <item name="zarosLabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="zarosLabs" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zarosLabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zarosLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="creative.css" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="zarosLabs" type="b2602c69:ProjectViewProjectNode" />
@@ -406,7 +415,7 @@
       <workItem from="1529506676988" duration="304000" />
       <workItem from="1529511278932" duration="2557000" />
       <workItem from="1529527751690" duration="202000" />
-      <workItem from="1532542398259" duration="3079000" />
+      <workItem from="1532542398259" duration="4024000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap template to get started">
       <created>1527529829576</created>
@@ -433,7 +442,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49651000" />
+    <option name="totallyTimeSpent" value="50596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="427" y="27" width="1920" height="1053" extended-state="6" />
@@ -536,9 +545,73 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/creative.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="232" column="27" lean-forward="false" selection-start-line="232" selection-start-column="27" selection-end-line="232" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/canvasInc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/galleryGig.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/heirloom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/unityChurch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lojix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/weRockITConf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnMore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="180">
           <caret line="55" column="59" lean-forward="false" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
           <folding />
         </state>
@@ -546,64 +619,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/bigSpringCrush.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/galleryGig.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/heirloom.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/weRockITConf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lojix.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/unityChurch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/canvasInc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnMore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="378">
+          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
           <folding />
         </state>
       </provider>
