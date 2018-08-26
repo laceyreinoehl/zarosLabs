@@ -2,8 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a846cd09-81ad-494f-a328-fc9126ed01ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PrivacyPolicy.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bigSpringCrushSupport.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/BlackStallion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Diora.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Girard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Hugel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Hugel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/JosephCarr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/ADChardonnay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/ADPinotNoir.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/ChateauParadis.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/CremantDeLoire.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/HeavyWeightCabernetSauvignon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/LouisVallonBrutRose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/MaisonRosierNew.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/MonmousseauBrutEtoile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/PinotNoirRose-Brut.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/VolareMoscato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/WilsonCreekAlmond.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines/fruitAndVinePinotGrigioPear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pali/PaliCharmAcres.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pali/paliAlphabets.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pali/paliHuntington.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pali/paliRiviera.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pali/tower15SB.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pali/tower15TheSwell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/2016-InvolunaryComplement.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/2017-Foris Moscato-Label.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/BishopsElevation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/KR_PG_2016_Front_crop_sm1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/LAMADRID-RESERVA-CF-2011.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/L_EcoleCab.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/Molo8Lambrusco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/SecateursChenin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/TapizMalbec.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/The-Originals_The-Hermit-Crab_Viognier-Marsanne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle/hylandEstates.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/Bargemone_Blanc_300dpi_Label.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/CoupDeFoudreCuvee.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/CoupDeFoudreLesBouqinistes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/CultCabernet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/FollyOfTheBeastLabel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/LagoVinhoVerde.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/PeiranoIllusion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/QuadyElectraMoscato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/RameyRRChardonnay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/RichardGPetersonPinotNoirII.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/SidebarRedFieldBlend.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush/rameyClaret.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/TheBarossan.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +60,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="bigSpringCrushSupport.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bigSpringCrushSupport.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="73" column="72" lean-forward="false" selection-start-line="73" selection-start-column="72" selection-end-line="73" selection-end-column="72" />
+            <state relative-caret-position="252">
+              <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -28,8 +74,8 @@
       <file leaf-file-name="learnMore.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnMore.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="90" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+            <state relative-caret-position="1620">
+              <caret line="90" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,8 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,12 +203,31 @@
               <item name="zarosLabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="zarosLabs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zarosLabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zarosLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zarosLabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zarosLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="BigSpringCrushWineLabels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zarosLabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zarosLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="BigSpringCrushWineLabels" type="462c0819:PsiDirectoryNode" />
+              <item name="Pinnacle" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,11 +240,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/img/portfolio/fullsize" />
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush" />
-      <recent name="$PROJECT_DIR$/img/portfolio/thumbnails" />
+      <recent name="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Rush" />
+      <recent name="$PROJECT_DIR$/img/BigSpringCrushWineLabels/International" />
+      <recent name="$PROJECT_DIR$/img/BigSpringCrushWineLabels/Pinnacle" />
+      <recent name="$PROJECT_DIR$/img/BigSpringCrushWineLabels/MJWines" />
+      <recent name="$PROJECT_DIR$/img/BigSpringCrushWineLabels" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio" />
@@ -322,7 +386,9 @@
       <workItem from="1532882695688" duration="30000" />
       <workItem from="1534164899202" duration="1248000" />
       <workItem from="1534179866750" duration="479000" />
-      <workItem from="1534266435101" duration="615000" />
+      <workItem from="1534266435101" duration="1105000" />
+      <workItem from="1534442273001" duration="1469000" />
+      <workItem from="1535311116817" duration="2748000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap template to get started">
       <created>1527529829576</created>
@@ -349,38 +415,37 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54141000" />
+    <option name="totallyTimeSpent" value="58848000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="427" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3343983" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33475026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21527778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21794872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16987179" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -429,6 +494,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bigSpringCrushSupport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnMore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="90" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigSpringCrushSupport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnMore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="90" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -546,16 +643,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learnMore.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="90" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+        <state relative-caret-position="1620">
+          <caret line="90" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bigSpringCrushSupport.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="73" column="72" lean-forward="false" selection-start-line="73" selection-start-column="72" selection-end-line="73" selection-end-column="72" />
+        <state relative-caret-position="252">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding />
         </state>
       </provider>
