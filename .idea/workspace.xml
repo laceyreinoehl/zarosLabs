@@ -2,189 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a846cd09-81ad-494f-a328-fc9126ed01ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/SeanMinor/15_SM_CabSauvFront1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/SeanMinor/15_SM_NicoleMarie_Front.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/SeanMinor/CASeriesChardLB.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/SeanMinor/CASeriesSBLB.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/SeanMinor/HMynorsZin2014Front1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/BigSpringCrushWineLabels/SeanMinor/SMPinotNoirSC2016LBFront.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/appStore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/104.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/115.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/121.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/125.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/126.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/127.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/129.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/130.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/131.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/132.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/133.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/134.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/136.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/137.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/138.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/139.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/139.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/140.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/141.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/141.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/142.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/145.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/146.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/147.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/148.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/149.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/151.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/152.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/153.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/154.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/155.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/156.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/157.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/158.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/159.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/161.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/162.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/163.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/164.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/166.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/167.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/168.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/169.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/170.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/171.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/172.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/173.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/174.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/177.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/182.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/183.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/185.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/186.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/212.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/214.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/215.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/216.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/217.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/218.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/225.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/233.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/234.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/249.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/250.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/251.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/252.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/253.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/254.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/255.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/256.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/257.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/258.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/259.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/261.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/262.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/263.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/46.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/53.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/54.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/55.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/56.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/57.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/59.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/61.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/62.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/63.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/64.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/66.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/67.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/69.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/70.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/71.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/72.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/73.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/74.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/75.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/76.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/77.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/78.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/79.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/81.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/alabamaWineCompetition.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/googlePlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/SHY/shyConsulting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/WhiteLabel-AppBanner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/Screenshot1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/Screenshot2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/Screenshot3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/Screenshot4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush/Screenshot5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/shyConsulting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/101.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/102.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/220.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/221.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/223.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/224.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/228.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/229.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/230.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/231.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/232.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/235.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/236.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/237.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/242.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/243.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/244.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/245.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/246.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/247.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/248.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/260.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/83.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/85.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/96.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/97.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/98.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bsc/99.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/shyConsulting/shyConsulting1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/shyConsulting/shyConsulting2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/shyConsulting/shyConsulting3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/shyConsulting/shyConsulting4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/shyConsulting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/shyconsulting.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/SHY/shyConsulting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/shyConsulting.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/bigSpringCrush.html" afterPath="$PROJECT_DIR$/portfolio/bigSpringCrush.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/canvasInc.html" afterPath="$PROJECT_DIR$/portfolio/canvasInc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/galleryGig.html" afterPath="$PROJECT_DIR$/portfolio/galleryGig.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/heirloom.html" afterPath="$PROJECT_DIR$/portfolio/heirloom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/lojix.html" afterPath="$PROJECT_DIR$/portfolio/lojix.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/weRockITConf.html" afterPath="$PROJECT_DIR$/portfolio/weRockITConf.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -195,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="304" column="18" lean-forward="false" selection-start-line="304" selection-start-column="18" selection-end-line="304" selection-end-column="18" />
+            <state relative-caret-position="129">
+              <caret line="307" column="90" lean-forward="false" selection-start-line="307" selection-start-column="90" selection-end-line="307" selection-end-column="90" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -284,8 +141,7 @@
                 <element signature="e#12406#12411#0" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#13171#13176#0" expanded="false" />
-                <element signature="e#13464#14245#0" expanded="false" />
-                <element signature="e#14284#18008#0" expanded="false" />
+                <element signature="e#14241#17965#0" expanded="false" />
                 <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -295,8 +151,18 @@
                 <element signature="n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#p#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#18995#19182#0" expanded="false" />
+                <element signature="e#18952#19139#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shyconsulting.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portfolio/shyconsulting.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -304,8 +170,8 @@
       <file leaf-file-name="canvasInc.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/canvasInc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1422">
-              <caret line="79" column="50" lean-forward="false" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="50" />
+            <state relative-caret-position="147">
+              <caret line="58" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -344,7 +210,7 @@
       <file leaf-file-name="bigSpringCrush.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/bigSpringCrush.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="2088">
               <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
               <folding />
             </state>
@@ -386,6 +252,7 @@
       <find>masthea</find>
       <find>bg-dark-</find>
       <find>mast</find>
+      <find>null</find>
     </findStrings>
     <replaceStrings>
       <replace>#8D000</replace>
@@ -393,6 +260,7 @@
       <replace>#8D0000</replace>
       <replace>+1 (256) 384-3830</replace>
       <replace>(141,0,0)</replace>
+      <replace>&quot;&quot;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/css</dir>
@@ -427,7 +295,9 @@
         <option value="$PROJECT_DIR$/portfolio/heirloom.html" />
         <option value="$PROJECT_DIR$/portfolio/galleryGig.html" />
         <option value="$PROJECT_DIR$/portfolio/bigSpringCrush.html" />
+        <option value="$PROJECT_DIR$/testing.json" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/portfolio/shyconsulting.html" />
       </list>
     </option>
   </component>
@@ -464,8 +334,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -489,7 +361,7 @@
               <item name="zarosLabs" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="fullsize" type="462c0819:PsiDirectoryNode" />
+              <item name="thumbnails" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zarosLabs" type="b2602c69:ProjectViewProjectNode" />
@@ -500,8 +372,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -513,15 +383,15 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/portfolio" />
-      <recent name="$PROJECT_DIR$/img/portfolio/fullsize/SHY" />
-      <recent name="$PROJECT_DIR$/img/portfolio/fullsize/bigSpringCrush" />
-      <recent name="$PROJECT_DIR$/img/bsc" />
-      <recent name="$PROJECT_DIR$/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/portfolio/thumbnails" />
+      <recent name="$PROJECT_DIR$/img/portfolio/fullsize/shyConsulting" />
+      <recent name="$PROJECT_DIR$/img/bsc" />
+      <recent name="$PROJECT_DIR$/img/portfolio" />
+      <recent name="$PROJECT_DIR$/img/portfolio/fullsize/SHY" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -669,7 +539,9 @@
       <workItem from="1537363234400" duration="413000" />
       <workItem from="1537544185065" duration="169000" />
       <workItem from="1537548625165" duration="3598000" />
-      <workItem from="1537885785743" duration="815000" />
+      <workItem from="1537885785743" duration="4992000" />
+      <workItem from="1538058664475" duration="334000" />
+      <workItem from="1539530251894" duration="2249000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap template to get started">
       <created>1527529829576</created>
@@ -696,7 +568,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70608000" />
+    <option name="totallyTimeSpent" value="77368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -776,149 +648,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/portfolio/weRockITConf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1422">
-          <caret line="79" column="51" lean-forward="false" selection-start-line="79" selection-start-column="51" selection-end-line="79" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/heirloom.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="78" column="54" lean-forward="false" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/galleryGig.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="72" column="50" lean-forward="false" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/bigSpringCrush.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="81" column="0" lean-forward="false" selection-start-line="78" selection-start-column="54" selection-end-line="94" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnMore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="77" column="44" lean-forward="false" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3852">
-          <caret line="214" column="8" lean-forward="false" selection-start-line="214" selection-start-column="8" selection-end-line="214" selection-end-column="8" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#416#726#0" expanded="false" />
-            <element signature="n#link#2;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#link#3;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#button#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3137#3267#0" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#4926#4931#0" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#5593#5598#0" expanded="false" />
-            <element signature="n#p#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#5800#6163#0" expanded="false" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#b#2;n#p#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#1;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#2;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#nav#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#a#0;n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#a#0;n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#9423#9428#0" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#a#0;n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#a#0;n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#10172#10177#0" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#10465#11199#0" expanded="false" />
-            <element signature="n#a#0;n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#a#0;n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#11667#11672#0" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#a#0;n#div#3;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#12406#12411#0" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#13171#13176#0" expanded="false" />
-            <element signature="e#13464#14245#0" expanded="false" />
-            <element signature="e#14284#18008#0" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#18995#19182#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/canvasInc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1422">
@@ -1054,8 +783,7 @@
             <element signature="e#12406#12411#0" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#13171#13176#0" expanded="false" />
-            <element signature="e#13464#14245#0" expanded="false" />
-            <element signature="e#14284#18008#0" expanded="false" />
+            <element signature="e#14241#17965#0" expanded="false" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1065,7 +793,7 @@
             <element signature="n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#p#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#18995#19182#0" expanded="false" />
+            <element signature="e#18952#19139#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1164,11 +892,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio/thumbnails/Heirloom-Thumbnail.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/portfolio/thumbnails/WeRockIT-Thumbnail.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1194,11 +917,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/portfolio/fullsize/5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio/fullsize/6.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1254,14 +972,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/canvasInc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1422">
-          <caret line="79" column="50" lean-forward="false" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/weRockITConf.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1422">
@@ -1303,16 +1013,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/bigSpringCrush.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="2088">
           <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/thumbnails/Heirloom-Thumbnail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/thumbnails/UnityChurch-Thumbnail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/fullsize/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/shyConsulting.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13419" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13420" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="304" column="18" lean-forward="false" selection-start-line="304" selection-start-column="18" selection-end-line="304" selection-end-column="18" />
+        <state relative-caret-position="129">
+          <caret line="307" column="90" lean-forward="false" selection-start-line="307" selection-start-column="90" selection-end-line="307" selection-end-column="90" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -1397,8 +1145,7 @@
             <element signature="e#12406#12411#0" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#13171#13176#0" expanded="false" />
-            <element signature="e#13464#14245#0" expanded="false" />
-            <element signature="e#14284#18008#0" expanded="false" />
+            <element signature="e#14241#17965#0" expanded="false" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1408,8 +1155,24 @@
             <element signature="n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#p#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#18995#19182#0" expanded="false" />
+            <element signature="e#18952#19139#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/canvasInc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="58" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/shyconsulting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
